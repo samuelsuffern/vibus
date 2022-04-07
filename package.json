@@ -1,5 +1,5 @@
 {
-  "name": "viBus",
+  "name": "vibus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,6 +14,21 @@
     "node": "16.14.2"
   },
   "dependencies": {
-    "express": "^4.17.3"
-  }
+    "express": "^4.17.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "leaflet": "^1.7.1",
+    "mdbreact": "^5.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-leaflet": "^3.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelsuffern/vibus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samuelsuffern/vibus/issues"
+  },
+  "homepage": "https://github.com/samuelsuffern/vibus#readme"
 }
